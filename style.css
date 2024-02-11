@@ -1,0 +1,14 @@
+.f1slika{
+    width: 200px;
+    transition: 1s ease-in-out;
+    
+}
+
+.zoom{
+    transform: scale(1.5);
+    border-radius: 100%;
+}
+#paraHolder{
+    background-color: rgb(43, 86, 226);
+    transform: scale(1.5);
+}
